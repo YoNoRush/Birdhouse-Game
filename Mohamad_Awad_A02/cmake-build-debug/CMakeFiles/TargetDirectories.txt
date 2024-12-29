@@ -1,0 +1,3 @@
+C:/Users/hamou/Downloads/Mohamad_Awad_A02/cmake-build-debug/CMakeFiles/Mohamad_Awad_A02.dir
+C:/Users/hamou/Downloads/Mohamad_Awad_A02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hamou/Downloads/Mohamad_Awad_A02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
